@@ -1,0 +1,47 @@
+[
+  {
+    "abstract": "helicopter_rotors",
+    "type": "vehicle_part",
+    "categories": [ "movement" ],
+    "location": "on_roof",
+    "symbol": "X",
+    "color": "light_blue",
+    "broken_symbol": "O",
+    "degradation_multiplier": 0.0,
+    "broken_color": "light_gray",
+    "flags": [ "ROTOR", "NO_INSTALL_PLAYER", "NO_REPAIR", "SMASH_REMOVE" ],
+    "description": "A set of aerofoil helicopter rotors, when spun at high speed, they generate thrust via lift."
+  },
+  {
+    "id": "heavy_duty_military_rotor",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military rotors" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "heavy_duty_military_rotor"
+  },
+  {
+    "id": "small_civilian_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "small helicopter rotors" },
+    "description": "A set of four military-grade helicopter rotor blades, used to provide lift by rotation.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "small_civilian_rotors"
+  },
+  {
+    "id": "heavy_duty_military_blackhawk_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military Blackhawk rotors" },
+    "description": "A set of four military-grade helicopter rotor blades, used to provide lift by rotation.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "heavy_duty_military_blackhawk_rotors"
+    
+  },
+  {
+    "id": "heavy_duty_military_osprey_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military Osprey rotors" },
+    "description": "A set of three military-grade helicopter rotor blades, used to provide lift by rotation.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "heavy_duty_military_osprey_rotors"
+  }
+]

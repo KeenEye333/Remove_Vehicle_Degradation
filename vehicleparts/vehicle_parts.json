@@ -1,0 +1,1032 @@
+[
+  
+  {
+    "type": "vehicle_part",
+    "id": "yoke_harness",
+    "name": { "str": "yoke and harness" },
+    "description": "Attach this part to a beast of burden to allow it to pull your vehicle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "yoke_harness"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "cart_handle",
+    "name": { "str": "cart handle" },
+    "description": "A metal handle, a creature with hands could use it to push a vehicle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "cart_handle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "bed",
+    "name": { "str": "bed" },
+    "description": "A small but comfortable bed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "bed"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "frame_handle",
+    "name": { "str": "handle" },
+    "description": "A pair of handles.  You can mount other items on top of it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "frame_handle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "frame_wood_handle",
+    "name": { "str": "wooden handle" },
+    "description": "A pair of handles.  You can mount other items on top of it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "frame_wood_handle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "frame_wood_light_handle",
+    "name": { "str": "light wooden handle" },
+    "description": "A pair of handles.  You can mount other items on top of it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "frame_wood_light_handle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "aisle",
+    "name": { "str": "aisle" },
+    "description": "An aisle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "aisle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "wooden_aisle",
+    "name": { "str": "wooden aisle" },
+    "description": "An aisle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "wooden_aisle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "foldable_aisle",
+    "name": { "str": "collapsible wooden aisle" },
+    "description": "A collapsible aisle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "foldable_aisle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "trunk_floor",
+    "name": { "str": "floor trunk" },
+    "description": "An aisle.  A hatch lets you access a cargo space beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "trunk_floor"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "roof_cloth",
+    "name": { "str": "cloth roof" },
+    "description": "A cloth roof.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "roof_cloth"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "roof",
+    "name": { "str": "roof" },
+    "description": "A metal roof.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "roof"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "hdroof",
+    "name": { "str": "heavy-duty roof" },
+    "description": "A thick metal roof.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "hdroof"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "blade",
+    "name": { "str": "blade" },
+    "description": "A blade, welded to the vehicle, for cutting up zombies.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "blade"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "spike",
+    "name": { "str": "spike" },
+    "description": "A metal spike, welded to the vehicle, to increase injury when crashing into things.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "spike"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "programmable_autopilot",
+    "name": { "str": "programmable autopilot" },
+    "description": "A computer system hooked up to the steering and engine of the vehicle to allow it to follow simple paths.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "programmable_autopilot"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "storage_battery_mount",
+    "name": { "str": "swappable storage battery case" },
+    "description": "A battery case for storage batteries.  Allows quick removal or addition of a storage battery, if you can lift the battery.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "storage_battery_mount"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "handheld_battery_mount",
+    "name": { "str": "tool battery mount" },
+    "description": "A mount for batteries usually used in handheld tools.  Allows quick removal or addition of such batteries into vehicular power grid.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "handheld_battery_mount"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "black_box",
+    "name": { "str": "military black box" },
+    "description": "An armored black box, a device meant to record and preserve data of a military vehicle in the field in case it gets destroyed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "black_box"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "minireactor",
+    "name": { "str": "minireactor" },
+    "description": "A small nuclear reactor.  When loaded with plutonium cells and turned on, will generate a lot of electrical power.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "minireactor"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "minifridge",
+    "name": { "str": "minifridge" },
+    "description": "A small fridge.  When turned on, it will cool the food inside, extending the time until the food spoils.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "minifridge"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "minifreezer",
+    "name": { "str": "minifreezer" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "minifreezer"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "washing_machine",
+    "name": { "str": "washing machine" },
+    "description": "A small washing machine.  With detergent, water, and some electrical power, you could clean a lot of clothes.  'e'xamine the tile with the washing machine to use it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "washing_machine"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "dishwasher",
+    "name": { "str": "portable dishwasher" },
+    "description": "A small dishwasher.  With detergent, water, and some electrical power, you could clean your dishes… or something more useful like a CBM dripping with zombie gore.  'e'xamine the tile with the dishwasher to use it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "dishwasher"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "autoclave",
+    "name": { "str": "autoclave" },
+    "description": "This is an autoclave.  It's useful for sterilizing things like CBMs.  'e'xamine the tile with the autoclave to use it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "autoclave"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "trunk",
+    "name": { "str": "trunk" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "trunk"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "travois",
+    "name": { "str": "travois" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "travois"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "wood box",
+    "name": { "str": "wood box" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "wood box"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "folding wood box",
+    "name": { "str": "folding wood box" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding wood box"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "veh_table",
+    "name": { "str": "table" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "veh_table"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "veh_table_wood",
+    "name": { "str": "wood table" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "veh_table_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "veh_table_foldable",
+    "name": { "str": "flat-packable table" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "veh_table_foldable"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "workbench",
+    "name": { "str": "workbench" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "workbench"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "workbench_with_recharger",
+    "name": { "str": "workbench with battery recharger" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "workbench_with_recharger"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "boat_board",
+    "name": { "str": "wooden boat hull" },
+    "description": "A wooden board that keeps the water out of your boat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "boat_board"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "raft_board",
+    "name": { "str": "raft boat hull" },
+    "description": "Logs tied together that will keep your boat out of the water.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "raft_board"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plastic_boat_hull",
+    "name": { "str": "plastic boat hull" },
+    "description": "A rigid plastic sheet that keeps water out of your boat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "plastic_boat_hull"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "metal_boat_hull",
+    "name": { "str": "metal boat hull" },
+    "description": "A metal sheet that keeps the water out of your boat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "metal_boat_hull"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "carbonfiber_boat_hull",
+    "name": { "str": "carbon fiber boat hull" },
+    "description": "A light weight, advanced carbon fiber rigid sheet that keeps the water out of your boat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "carbonfiber_boat_hull"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "inflatable_section",
+    "name": { "str": "inflatable section" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "inflatable_section"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "inflatable_airbag",
+    "name": { "str": "inflatable airbag" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "inflatable_airbag"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "sail",
+    "name": { "str": "sail" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "sail"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "hand_paddles",
+    "name": { "str": "hand paddles" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hand_paddles"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "reins_tackle",
+    "name": { "str": "reins and tackle" },
+    "description": "A set of leather bindings to control a creature pulling a vehicle, such as a cart.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "reins_tackle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "controls",
+    "name": { "str": "controls" },
+    "description": "A steering wheel and accelerator and brake pedals.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "controls"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "dashboard",
+    "name": { "str": "dashboard" },
+    "description": "A frame containing some lights and controls.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "dashboard"
+  },
+  {
+    "id": "mountable_heater",
+    "type": "vehicle_part",
+    "name": { "str": "vehicle-mounted heater" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "mountable_heater"
+  },
+  {
+    "id": "mountable_heater_small",
+    "type": "vehicle_part",
+    "name": { "str": "small vehicle-mounted heater" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "mountable_heater_small"
+  },
+  {
+    "id": "mountable_cooler",
+    "type": "vehicle_part",
+    "name": { "str": "vehicle-mounted cooler" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "mountable_cooler"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "controls_electronic",
+    "name": { "str": "electronics control unit" },
+    "description": "Some switches and knobs to control the vehicle's electrical systems.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "controls_electronic"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "muffler",
+    "name": { "str": "muffler" },
+    "description": "A metal pipe that somewhat reduces engine noise.  Also vents heat from an installed vehicle cooler.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "muffler"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seatbelt",
+    "name": { "str": "seatbelt" },
+    "description": "A belt, attached to a seat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seatbelt"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "vehicle_alarm",
+    "name": { "str": "security system" },
+    "description": "A bunch of electronics that make it difficult to start the vehicle without the proper key, and that will sound an alarm if you try.  The alarm can be disabled.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "vehicle_alarm"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "smart_engine_controller",
+    "name": { "str": "smart engine controller" },
+    "description": "Electronic module that automatically switches combustion and electric engines on and off minimizing fuel consumption and optimizing power output and battery charge rate.  Must be turned on to work.  Simplified ruleset: 1. When throttling, maximize acceleration.  2. Keep battery at 90%.  3. Minimize fuel consumption.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "smart_engine_controller"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seatbelt_heavyduty",
+    "name": { "str": "5-point harness" },
+    "description": "A series of straps attached to the seat, intended to fasten together after going over your shoulders and hips and between your legs.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seatbelt_heavyduty"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "v_curtain",
+    "name": { "str": "curtain" },
+    "description": "A sheet over a window.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "v_curtain"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "aisle_curtain",
+    "name": { "str": "aisle curtain" },
+    "description": "A sheet across an aisle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "aisle_curtain"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "water_wheel",
+    "name": { "str": "water wheel" },
+    "description": "A water wheel.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "water_wheel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "xl_water_wheel",
+    "name": { "str": "large water wheel" },
+    "description": "A large water wheel with wooden supports.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "xl_water_wheel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "solar_panel",
+    "name": { "str": "solar panel" },
+    "description": "A solar panel.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_panel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "wind_turbine",
+    "name": { "str": "wind turbine" },
+    "description": "A small wind turbine.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "wind_turbine"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "xl_wind_turbine",
+    "name": { "str": "large wind turbine" },
+    "description": "A large wind turbine with stabilizing legs.  Will cause extra drag on the vehicle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "xl_wind_turbine"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "foldable_solar_panel",
+    "name": { "str": "collapsible solar array" },
+    "description": "A small array of solar panels designed to be able to fold into one another.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "foldable_solar_panel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "advanced_foldable_solar_panel",
+    "name": { "str": "advanced collapsible solar array" },
+    "description": "A small array of high-performance solar panels designed to be able to fold into one another.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "advanced_foldable_solar_panel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "reinforced_solar_panel",
+    "looks_like": "solar_panel",
+    "name": { "str": "reinforced solar panel" },
+    "description": "A solar panel.  Reinforced with armored glass to make it more resistant to damage.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "reinforced_solar_panel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "solar_panel_v2",
+    "name": { "str": "advanced solar panel" },
+    "description": "A high-performance solar panel.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_panel_v2"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "reinforced_solar_panel_v2",
+    "name": { "str": "advanced reinforced solar panel" },
+    "description": "A high-performance solar panel.  Reinforced with armored glass to make it more resistant to damage.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "reinforced_solar_panel_v2"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "compact_ASRG_containment",
+    "name": { "str": "advanced Stirling radioisotope generator" },
+    "description": "A military ASRG covered in heavy plating.  Provides constant albeit low power to your car.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "compact_ASRG_containment"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "water_faucet",
+    "name": { "str": "water faucet" },
+    "description": "A water faucet.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "water_faucet"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "towel_hanger",
+    "name": { "str": "towel hanger" },
+    "description": "A towel hanger with towels.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "towel_hanger"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_wood",
+    "name": { "str": "wooden armor" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_steel",
+    "name": { "str": "steel plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_steel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_superalloy",
+    "name": { "str": "superalloy plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_superalloy"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_spiked",
+    "name": { "str": "spiked plating" },
+    "description": "A spiked plate that will increase the damage delivered to someone else in collisions.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_spiked"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_hard",
+    "name": { "str": "hard plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_hard"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_military",
+    "name": { "str": "military composite armor plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_military"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "horn_bicycle",
+    "name": { "str": "bicycle horn" },
+    "description": "A small horn.  Use the vehicle controls and select the honk option to make noise.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_bicycle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "horn_car",
+    "name": { "str": "car horn" },
+    "description": "A horn.  Use the vehicle controls and select the honk option to make noise.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_car"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "horn_big",
+    "name": { "str": "truck horn" },
+    "description": "A powerful truck horn.  Use the vehicle controls and select the honk option to make noise.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_big"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "beeper",
+    "name": { "str": "back-up beeper" },
+    "description": "An electronic noise maker.  It will automatically make noise when you drive in reverse, alerting things behind you to move out of the way.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "beeper"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_trunk",
+    "name": { "str": "trunk door" },
+    "description": "A short door.  You can always see over it, open or closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_trunk"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "hddoor_trunk",
+    "name": { "str": "heavy-duty trunk door" },
+    "description": "A strong, short door.  You can always see over it, open or closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "hddoor_trunk"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_shutter",
+    "name": { "str": "shutter door" },
+    "description": "A strong door.  Solid construction means you can't see through it when closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_shutter"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_sliding",
+    "description": "A door.  A window lets you see through it when closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_sliding"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "cargo_space",
+    "name": { "str": "cargo space" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "cargo_space"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "livestock_stall",
+    "name": { "str": "livestock stall" },
+    "description": "A cargo space for carrying livestock.  'e'xamine it to capture an animal next to you, or to release the animal currently contained.  When selecting an animal to capture, choose its tile relative to you, not the part.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "livestock_stall"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "animal_compartment",
+    "name": { "str": "animal compartment" },
+    "description": "A large locker for transporting smaller animals.  'e'xamine it to capture an animal next to you, or to release the animal currently contained.  When selecting an animal to capture, choose its tile relative to you, not the part.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "animal_compartment"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "recharge_station",
+    "name": { "str": "recharging station" },
+    "description": "A device for recharging batteries.  When turned on, it charges any rechargeable batteries (battery cells, lead-acid batteries, etc) placed directly in the attached storage space, drawing power from the vehicle's batteries.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "recharge_station"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "battery_charger",
+    "name": { "str": "battery charger" },
+    "description": "A small, low-power consumer device for recharging batteries.  It slowly charges any rechargeable batteries (battery cells, lead-acid batteries, etc) placed directly in the attached storage space, drawing power from the vehicle's batteries.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_charger"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "stereo",
+    "name": { "str": "stereo system" },
+    "description": "A stereo system.  When turned on, it plays music, improving your mood.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "stereo"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "chimes",
+    "name": { "str": "chimes" },
+    "description": "A collection of electronic bells.  Use the vehicle's controls to turn it on or off.  When turned on, it makes noise, attracting neighborhood children.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "chimes"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "jumper_cable",
+    "name": { "str": "jumper cable" },
+    "description": "Thick copper cable with leads on either end.  Attach one end to one vehicle and the other to another, and you can transfer electrical power between the two.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "jumper_cable"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "extension_cable",
+    "name": { "str": "extension cord" },
+    "description": "A long orange extension cord for connecting appliances.  Currently plugged in.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "extension_cable"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "long_extension_cable",
+    "name": { "str": "outdoor extension cord" },
+    "description": "An extra long 30m orange extension cord for connecting outdoor appliances.  Currently plugged in.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "long_extension_cable"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "jumper_cable_heavy",
+    "name": { "str": "heavy-duty cable" },
+    "description": "Very thick copper cable with leads on either end.  Attach one end to one vehicle and the other to another, and you can transfer electrical power between the two.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "jumper_cable_heavy"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "hd_tow_cable",
+    "name": { "str": "heavy-duty tow cable" },
+    "description": "A heavy-duty tow cable, if the other end was attached to another vehicle, it could pull it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "hd_tow_cable"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "jumper_cable_debug",
+    "name": { "str": "shiny cable" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "jumper_cable_debug"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seat_wood_flimsy",
+    "name": { "str": "flimsy wooden seat" },
+    "description": "A place to sit.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seat_wood_flimsy"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seat_wood",
+    "name": { "str": "wooden seat" },
+    "description": "A place to sit.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seat_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seat_wood_bench",
+    "name": { "str": "wooden bench" },
+    "description": "A benchlike place to sit.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seat_wood_bench"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "spike_wood",
+    "name": { "str": "wooden spike" },
+    "description": "A wooden spike, attached to the vehicle, to increase injury when crashing into things.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "spike_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_wood",
+    "name": { "str": "wooden door" },
+    "description": "A door.  Has a window so you can see out of it, even when closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_wood_opaque",
+    "name": { "str": "opaque wooden door" },
+    "description": "A door.  Solid construction means you can't see through it when closed.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_wood_opaque"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "roof_wood",
+    "name": { "str": "wooden roof" },
+    "description": "A wooden roof.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "roof_wood"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_chitin",
+    "name": { "str": "chitin plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_chitin"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_acidchitin",
+    "name": { "str": "biosilicified chitin plating" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plating_acidchitin"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "door_motor",
+    "name": { "str": "door motor" },
+    "description": "A small electric motor.  Installed on the same frame as a door or curtain, it will allow you to remotely open the door or curtain from the vehicle controls.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_motor"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "drive_by_wire_controls",
+    "name": { "str": "drive by wire controls" },
+    "description": "A sophisticated set of electronic controls that allow you to control the vehicle from a vehicle remote while you are not in it.  You can 'e'xamine the tile to access the controls, or use the vehicle control key (default '^').",
+    "degradation_multiplier": 0.0,
+    "copy-from": "drive_by_wire_controls"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "cam_control",
+    "name": { "str": "camera control system" },
+    "description": "An LCD attached to one or more cameras.  When turned on, it lets you see from the cameras, but drains power from the vehicle's batteries.  You can 'e'xamine the tile to access the controls, or use the vehicle control key (default '^').",
+    "degradation_multiplier": 0.0,
+    "copy-from": "cam_control"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "omnicam",
+    "name": { "str": "security camera" },
+    "description": "A small camera.  Will relay what it can see to a camera control station.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "omnicam"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "omnicamera_reinforced",
+    "description": "A small camera encased in a protective metal cage.  Will relay what it can see to a camera control station.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "omnicamera_reinforced"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "robot_controls",
+    "name": { "str": "robot controls" },
+    "description": "A set of controls to allow a vehicle to drive itself, or you to drive it remotely using a controller.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "robot_controls"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "vehicle_clock",
+    "name": { "str": "clock" },
+    "description": "A clock, so you know what time it is.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "vehicle_clock"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "leather_funnel",
+    "name": { "str": "leather funnel" },
+    "description": "A funnel that will collect rainwater into the tank beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "leather_funnel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "birchbark_funnel",
+    "name": { "str": "birchbark funnel" },
+    "description": "A funnel that will collect rainwater into the tank beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "birchbark_funnel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "makeshift_funnel",
+    "name": { "str": "makeshift funnel" },
+    "description": "A funnel that will collect rainwater into the tank beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "makeshift_funnel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "funnel",
+    "name": { "str": "funnel" },
+    "description": "A funnel that will collect rainwater into the tank beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "funnel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "metal_funnel",
+    "name": { "str": "metal funnel" },
+    "description": "A funnel that will collect rainwater into the tank beneath it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "metal_funnel"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "vehicle_scoop",
+    "name": { "str": "scoop" },
+    "description": "A scoop.  Use the vehicle controls to turn it on or off.  When turned on, it will scoop up loose items that it travels over until it's full.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "vehicle_scoop"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "water_purifier",
+    "name": { "str": "water purifier" },
+    "description": "A water purifier, powered by the vehicle's batteries.  You can use it to purify water in a container or in the vehicle's tanks.  'e'xamine the tile with the purifier to use it.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "water_purifier"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plow",
+    "name": { "str": "plow" },
+    "description": "A plow.  Use the vehicle controls to turn it on or off.  When turned on, it will create a furrow in any dirt it travels over, making it suitable for planting seeds.  It should be placed in front of any seed drills on the vehicle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "plow"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seed_drill",
+    "name": { "str": "seed drill" },
+    "description": "A seed drill.  Use the vehicle controls to turn it on or off.  You can load it with seeds by examining it.  When turned on, it will drop seeds as the vehicle moves, or plant them in furrowed dirt.  It should be placed behind any plows on the vehicle, and any wheels should be placed so they won't run over the plants.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seed_drill"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "seed_drill_advanced",
+    "name": { "str": "advanced seed drill" },
+    "description": "A seed drill.  Use the vehicle controls to turn it on or off.  You can load it with seeds by examining it.  When turned on, it will drop seeds as the vehicle moves, or plant them in furrowed dirt.  It should be placed behind any plows on the vehicle, and any wheels should be placed so they won't run over the plants.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "seed_drill_advanced"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "reaper",
+    "name": { "str": "reaper" },
+    "description": "An automatic reaper.  Use the vehicle controls to turn it on or off.  When on, it will cut down plants that it travels over.  It should be placed in front of any plows in the vehicle for efficient operation.  It does not include cargo space of its own so you need install a cargo space of some kind elsewhere in the vehicle.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "reaper"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "reaper_advanced",
+    "name": { "str": "advanced reaper" },
+    "description": "An automatic reaper.  Use the vehicle controls to turn it on or off.  When on, it will cut down plants and store them in the vehicle's cargo.  It should be placed in front of any plows in the vehicle for efficient operation.  It has internal cargo space for collecting the harvest.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "reaper_advanced"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "cargo_lock",
+    "name": { "str": "cargo lock" },
+    "description": "A set of locks.  Attached to a suitable cargo space, it will prevent other people from accessing the cargo and taking your stuff.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "cargo_lock"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "turret_mount",
+    "name": { "str": "turret mount" },
+    "description": "A rotating, universal mount for a weapon.  If your hands are empty, you can stand on the same tile as a turret mount and 'f'ire the weapon.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "turret_mount"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "controls_turret",
+    "name": { "str": "turret control unit" },
+    "description": "A set of motor, camera, and an AI unit which allows for tracking targets, friend-or-foe identification, and firing the connected turret in full automatic mode.  When installed over the turret, it will enable auto targeting mode for said turret.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "controls_turret"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "aluminum_boat_hull",
+    "name": { "str": "aluminum boat hull" },
+    "description": "An aluminum hull that keeps the water out of your boat.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "aluminum_boat_hull"
+  },
+  {
+    "id": "plugged_3in_ordnance_rifle",
+    "type": "vehicle_part",
+    "name": { "str": "plugged 3-inch ordnance rifle" },
+    "description": "Unfortunately, some responsible killjoy poured concrete in the barrel of this historic cannon to make it safe for display.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "plugged_3in_ordnance_rifle"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "stowed_fridge",
+    "name": { "str": "tied-down fridge" },
+    "description": "A fridge, secured to the roof for transportation.  Not functional, but easier than carrying it with your hands.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "stowed_fridge"
+  },
+  {
+    "type": "vehicle_part",
+    "id": "stowed_freezer",
+    "name": { "str": "tied-down freezer" },
+    "description": "A chest freezer, secured to the roof for transportation.  Not functional, but easier than carrying it with your hands.",
+    "degradation_multiplier": 0.0,
+    "copy-from": "stowed_freezer"
+  }
+]

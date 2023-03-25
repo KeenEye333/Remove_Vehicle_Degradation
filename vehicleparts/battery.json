@@ -1,0 +1,114 @@
+[
+  {
+    "id": "battery_car",
+    "type": "vehicle_part",
+    "name": { "str": "car battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_car"
+  },
+  {
+    "id": "battery_motorbike",
+    "type": "vehicle_part",
+    "name": { "str": "motorbike battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_motorbike"
+  },
+  {
+    "id": "battery_motorbike_small",
+    "type": "vehicle_part",
+    "name": { "str": "motorbike battery, small" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_motorbike_small"
+  },
+  {
+    "id": "large_storage_battery",
+    "type": "vehicle_part",
+    "name": { "str": "very large storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "large_storage_battery"
+  },
+  {
+    "id": "large_storage_battery_removable",
+    "type": "vehicle_part",
+    "name": { "str": "swappable very large storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "large_storage_battery_removable"
+  },
+  {
+    "id": "medium_storage_battery",
+    "type": "vehicle_part",
+    "name": { "str": "medium storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "medium_storage_battery"
+  },
+  {
+    "id": "small_storage_battery",
+    "type": "vehicle_part",
+    "name": { "str": "small storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "small_storage_battery"
+  },
+  {
+    "id": "storage_battery",
+    "type": "vehicle_part",
+    "name": { "str": "large storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "storage_battery"
+  },
+  {
+    "id": "storage_battery_removable",
+    "type": "vehicle_part",
+    "name": { "str": "swappable large storage battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "storage_battery_removable"
+  },
+  {
+    "id": "car_light_minus_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "ultra-light battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_light_minus_battery_cell"
+  },
+  {
+    "id": "car_light_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "light battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_light_battery_cell"
+  },
+  {
+    "id": "car_light_plus_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "light battery (high-capacity)" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_light_plus_battery_cell"
+  },
+  {
+    "id": "car_medium_battery_cell",
+    "name": "medium car battery",
+    "type": "vehicle_part",
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_medium_battery_cell"
+  },
+  {
+    "id": "car_medium_plus_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "medium battery (high-capacity)" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_medium_plus_battery_cell"
+  },
+  {
+    "id": "car_heavy_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "heavy battery" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_heavy_battery_cell"
+  },
+  {
+    "id": "car_heavy_plus_battery_cell",
+    "type": "vehicle_part",
+    "name": { "str": "heavy battery (high-capacity)" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_heavy_plus_battery_cell"
+  }
+]

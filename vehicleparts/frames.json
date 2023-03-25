@@ -1,0 +1,66 @@
+[
+  {
+    "id": "folding_frame",
+    "type": "vehicle_part",
+    "name": { "str": "foldable light frame" },
+     "degradation_multiplier": 0.0,
+    "copy-from": "folding_frame"
+   
+  },
+  {
+    "id": "folding_wooden_frame",
+    "type": "vehicle_part",
+    "name": { "str": "foldable wooden frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding_wooden_frame"
+    
+  },
+  {
+    "id": "frame",
+    "type": "vehicle_part",
+    "name": { "str": "frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "frame"
+    
+  },
+  {
+    "id": "frame_wood",
+    "type": "vehicle_part",
+    "name": { "str": "wooden frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "frame_wood"
+    
+  },
+  {
+    "id": "frame_wood_light",
+    "type": "vehicle_part",
+    "name": { "str": "light wooden frame" },
+    "degradation_multiplier":0.0,
+    "copy-from": "frame_wood_light"
+    
+  },
+  {
+    "id": "hdframe",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hdframe"
+    
+  },
+  {
+    "id": "xlframe",
+    "type": "vehicle_part",
+    "name": { "str": "extra light frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "xlframe"
+    
+  },
+  {
+    "id": "foldxlframe",
+    "type": "vehicle_part",
+    "name": { "str": "foldable extra light frame" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "foldxlframe"
+    
+  }
+]

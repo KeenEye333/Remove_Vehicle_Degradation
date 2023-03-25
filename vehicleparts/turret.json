@@ -1,0 +1,20 @@
+[
+  {
+    "abstract": "turret",
+    "type": "vehicle_part",
+    "symbol": "t",
+    "durability": 400,
+    "damage_modifier": 80,
+    "location": "on_roof",
+    "degradation_multiplier": 0.0,
+    "categories": [ "warfare" ],
+    "requirements": { "install": { "time": "100 s" }, "removal": { "time": "50 s" } },
+    "flags": [ "TURRET" ]
+  },
+  {
+    "id": "turret_generic",
+    "type": "vehicle_part",
+    "degradation_multiplier": 0.0,
+    "copy-from": "turret_generic"
+  }
+]

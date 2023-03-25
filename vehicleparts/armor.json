@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rebar_plate",
+    "type": "vehicle_part",
+    "name": { "str": "rebar reinforcement" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "rebar_plate"
+  },
+  {
+    "id": "spring_plate",
+    "type": "vehicle_part",
+    "name": { "str": "shock absorber" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "spring_plate"
+  }
+]
