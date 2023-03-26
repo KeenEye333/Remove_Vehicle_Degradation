@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "turret_mount",
+    "id": "turret_mount",
+    "type": "GENERIC",
+    "name": { "str": "turret mount" },
+    "description": "A universal mount for weapons intended to be installed as turrets.",
+    "category": "veh_spare_parts"
+  }
+]

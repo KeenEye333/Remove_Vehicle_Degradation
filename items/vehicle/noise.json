@@ -1,0 +1,34 @@
+[
+  {
+    "copy-from": "muffler",
+    "type": "GENERIC",
+    "id": "muffler",
+    "name": { "str": "muffler" },
+    "description": "A muffler from a car.  Useful in a few crafting recipes.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "beeper",
+    "type": "GENERIC",
+    "id": "beeper",
+    "name": { "str": "back-up beeper" },
+    "description": "A safety device intended to warn passersby of a vehicle moving in reverse.  Usage of it now seems terribly unwise.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "stereo",
+    "type": "GENERIC",
+    "id": "stereo",
+    "name": { "str": "stereo system" },
+    "description": "A stereo system with speakers.  It is capable of being hooked up to a vehicle.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "chimes",
+    "type": "GENERIC",
+    "id": "chimes",
+    "name": { "str_sp": "chime loudspeakers" },
+    "description": "A stereo system with loudspeakers and a built-in set of simple melodies that it will play.  Commonly used by ice cream trucks to draw the attention of children in the days when children wanted ice cream more than brains.",
+    "category": "veh_spare_parts"
+  }
+]

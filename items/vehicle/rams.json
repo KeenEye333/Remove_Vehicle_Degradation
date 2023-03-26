@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "tearer",
+    "id": "tearer",
+    "type": "GENERIC",
+    "name": { "str": "shredder" },
+    "description": "This menacing-looking attachment is meant to be powered by a vehicle's engine.  Upon doing so, the circular blades of this device will rotate rapidly; anything in front of it is likely to be ripped to shreds.  It is sturdy enough to withstand multiple impacts, and is designed to detach if it would take a hit that would break it.",
+    "category": "veh_spare_parts"
+  }
+]

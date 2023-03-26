@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "fuel_bunker",
+    "id": "fuel_bunker",
+    "type": "MAGAZINE",
+    "name": { "str": "fuel bunker" },
+    "description": "A bin for holding solid fuel.",
+    "category": "veh_spare_parts"
+  }
+]

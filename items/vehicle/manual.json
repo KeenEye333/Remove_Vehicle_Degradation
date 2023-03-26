@@ -1,0 +1,18 @@
+[
+  {
+    "copy-from": "hand_rims",
+    "type": "GENERIC",
+    "id": "hand_rims",
+    "name": { "str": "set of hand rims", "str_pl": "sets of hand rims" },
+    "description": "A set of hand rims for use on a wheelchair.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "foot_crank",
+    "type": "GENERIC",
+    "id": "foot_crank",
+    "name": { "str": "foot crank" },
+    "description": "A pedal and gear assembly from a bicycle.",
+    "category": "veh_spare_parts"
+  }
+]

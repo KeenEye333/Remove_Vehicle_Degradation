@@ -6,8 +6,9 @@
     "authors": [ "<color_yellow>KeenEye333</color>" ],
     "maintainers": [ "<color_red>KeenEye333</color>" ],
     "description": "Removes the repair limit of every vehicle parts in the game",
-    "version": "<color_green>0.G Stable</color>",
+    "version": "<color_green>v1.1 [0.G Stable Support]</color>",
     "category": "rebalance",
     "dependencies": [ "dda" ]
   }
+
 ]

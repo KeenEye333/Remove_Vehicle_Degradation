@@ -1,0 +1,263 @@
+[
+  {
+    "abstract": "engine_combustion",
+    "type": "ENGINE",
+    "category": "veh_spare_parts",
+    "name": { "str": "internal combustion engine" },
+    "material": [ "iron" ],
+    "symbol": ":",
+    "color": "light_cyan"
+  },
+  {
+    "abstract": "engine_diesel",
+    "copy-from": "engine_combustion",
+    "type": "ENGINE",
+    "name": { "str": "base diesel engine" },
+    "faults": [
+      "fault_engine_belt_drive",
+      "fault_engine_filter_air",
+      "fault_engine_filter_fuel",
+      "fault_engine_glow_plug",
+      "fault_engine_immobiliser",
+      "fault_engine_pump_diesel",
+      "fault_engine_starter"
+    ]
+  },
+  {
+    "abstract": "engine_gasoline",
+    "copy-from": "engine_combustion",
+    "type": "ENGINE",
+    "name": { "str": "base gasoline engine" },
+    "faults": [
+      "fault_engine_belt_drive",
+      "fault_engine_filter_air",
+      "fault_engine_filter_fuel",
+      "fault_engine_immobiliser",
+      "fault_engine_pump_fuel",
+      "fault_engine_starter"
+    ]
+  },
+  {
+    "abstract": "engine_steam",
+    "copy-from": "engine_combustion",
+    "type": "ENGINE",
+    "name": { "str": "base steam engine" },
+    "looks_like": "v12_diesel",
+    "faults": [ "fault_engine_belt_drive", "fault_engine_filter_air", "fault_engine_starter" ]
+  },
+  {
+    "id": "1cyl_combustion",
+    "copy-from": "engine_gasoline",
+    "type": "ENGINE",
+    "name": { "str": "1-cylinder engine" },
+    "description": "A single-cylinder 4-stroke combustion engine.",
+    "weight": "26 kg",
+    "volume": "60 L",
+    "price": 10000,
+    "price_postapoc": 1000,
+    "displacement": 40,
+    "faults": [ "fault_engine_starter" ]
+  },
+  {
+    "id": "1cyl_combustion_large",
+    "copy-from": "engine_gasoline",
+    "type": "ENGINE",
+    "name": { "str": "large 1-cylinder engine" },
+    "description": "A powerful, high-compression, single-cylinder 4-stroke combustion engine.",
+    "weight": "40 kg",
+    "volume": "90 L",
+    "price": 10000,
+    "price_postapoc": 1250,
+    "displacement": 55,
+    "faults": [ "fault_engine_starter" ]
+  },
+  {
+    "id": "1cyl_combustion_small",
+    "copy-from": "engine_gasoline",
+    "type": "ENGINE",
+    "name": { "str": "small 1-cylinder engine" },
+    "description": "A small, single-cylinder 2-stroke combustion engine.",
+    "weight": "620 g",
+    "volume": "629 ml",
+    "price": 6000,
+    "price_postapoc": 750,
+    "displacement": 20,
+    "faults": [  ]
+  },
+  {
+    "copy-from": "aero_engine_light",
+    "id": "aero_engine_light",
+    "type": "ENGINE",
+    "name": { "str": "light aero-engine" },
+    "category": "veh_spare_parts",
+    "description": "An air-cooled, 4-cylinder, horizontally opposed internal combustion engine, rated for 150 horsepower.  Commonly used on light aircraft."
+  },
+  {
+    "copy-from": "i4_combustion",
+    "id": "i4_combustion",
+    "type": "ENGINE",
+    "name": { "str": "I4 engine" },
+    "description": "A small, yet powerful 4-cylinder combustion engine, commonly called a straight-four.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "i4_diesel",
+    "id": "i4_diesel",
+    "type": "ENGINE",
+    "name": { "str": "I4 diesel engine" },
+    "description": "A small, yet powerful 4-cylinder diesel engine, commonly called a straight-four.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "i6_diesel",
+    "id": "i6_diesel",
+    "type": "ENGINE",
+    "name": { "str": "I6 diesel engine" },
+    "description": "An industrial-sized 6-cylinder diesel engine, commonly called a straight-six.  About as powerful as a V6 engine but significantly larger for use in heavy equipment.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v2_combustion",
+    "id": "v2_combustion",
+    "type": "ENGINE",
+    "name": { "str": "V2 engine" },
+    "description": "A 2-cylinder 4-stroke combustion engine, commonly called a V-twin.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v6_combustion",
+    "id": "v6_combustion",
+    "type": "ENGINE",
+    "name": { "str": "V6 engine" },
+    "description": "A powerful 6-cylinder combustion engine.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v6_diesel",
+    "id": "v6_diesel",
+    "type": "ENGINE",
+    "name": { "str": "V6 diesel engine" },
+    "category": "veh_spare_parts",
+    "description": "A powerful 6-cylinder diesel engine."
+  },
+  {
+    "copy-from": "v8_combustion",
+    "id": "v8_combustion",
+    "type": "ENGINE",
+    "name": { "str": "V8 engine" },
+    "description": "A large and very powerful 8-cylinder combustion engine.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v8_diesel",
+    "id": "v8_diesel",
+    "type": "ENGINE",
+    "name": { "str": "V8 diesel engine" },
+    "description": "A large and very powerful 8-cylinder diesel engine.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v12_combustion",
+    "id": "v12_combustion",
+    "type": "ENGINE",
+    "name": { "str": "V12 engine" },
+    "description": "A massive and extremely powerful 12-cylinder combustion engine, usually built into high-end sports cars.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "v12_diesel",
+    "id": "v12_diesel",
+    "category": "veh_spare_parts",
+    "type": "ENGINE",
+    "name": { "str": "V12 diesel engine" },
+    "description": "A massive and extremely powerful 12-cylinder diesel engine, usually built into heavy trucks."
+  },
+  {
+    "copy-from": "steam_watts_small",
+    "id": "steam_watts_small",
+    "type": "ENGINE",
+    "name": { "str": "makeshift steam engine" },
+    "description": "A small, primitive steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condenser recaptures the water, making this a closed-cycle system.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "steam_triple_small",
+    "id": "steam_triple_small",
+    "type": "ENGINE",
+    "name": { "str": "small steam engine" },
+    "description": "A small steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condenser recaptures the water, making this a closed-cycle system.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "steam_triple_medium",
+    "id": "steam_triple_medium",
+    "type": "ENGINE",
+    "name": { "str": "medium steam engine" },
+    "description": "A medium-sized steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condenser recaptures the water, making this a closed-cycle system.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "engine_block_massive",
+    "id": "engine_block_massive",
+    "type": "GENERIC",
+    "name": { "str": "massive engine block" },
+    "description": "The beginnings of a massive gas or diesel engine.  It's not good for much of anything on its own.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "engine_block_large",
+    "id": "engine_block_large",
+    "type": "GENERIC",
+    "name": { "str": "large engine block" },
+    "description": "The beginnings of a large gas or diesel engine.  It's not good for much of anything on its own.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "engine_block_medium",
+    "id": "engine_block_medium",
+    "type": "GENERIC",
+    "name": { "str": "medium engine block" },
+    "description": "The beginnings of a medium gas or diesel engine.  It's not good for much of anything on its own.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "engine_block_small",
+    "id": "engine_block_small",
+    "type": "GENERIC",
+    "name": { "str": "small engine block" },
+    "description": "The beginnings of a small gas or diesel engine.  It's not good for much of anything on its own.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "engine_block_tiny",
+    "id": "engine_block_tiny",
+    "type": "GENERIC",
+    "name": { "str": "tiny engine block" },
+    "description": "The beginnings of a tiny gas or diesel engine.  It's not good for much of anything on its own.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "small_turbine_engine",
+    "id": "small_turbine_engine",
+    "type": "ENGINE",
+    "name": { "str": "1,350 HP gas turbine engine" },
+    "description": "A gas turbine engine, usually used for military vehicles.  Known for its high rate of fuel consumption.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "medium_turbine_engine",
+    "id": "medium_turbine_engine",
+    "type": "ENGINE",
+    "name": { "str": "1,900 HP gas turbine engine" },
+    "description": "A large gas turbine engine, usually used for military helicopters.  Known for its high rate of fuel consumption.",
+    "category": "veh_spare_parts"
+  },
+  {
+    "copy-from": "large_turbine_engine",
+    "id": "large_turbine_engine",
+    "type": "ENGINE",
+    "name": { "str": "6,000 HP gas turbine engine" },
+    "description": "A massive gas turbine engine, used to power the V-22 Osprey.  Known for its high rate of fuel consumption.",
+    "category": "veh_spare_parts"
+  }
+]
