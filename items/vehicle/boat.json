@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "boat_board",
     "name": { "str": "wood boat hull" },
+    "degradation_multiplier": 0.0,
     "description": "A wooden board that keeps the boat afloat.  Add boat hulls to a vehicle until it floats, then attach oars or a motor to get the boat to move.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "raft_board",
     "name": { "str": "raft boat hull" },
+    "degradation_multiplier": 0.0,
     "description": "Logs tied together to make a vehicle float.  Add boat hulls to a vehicle until it floats, then attach oars or a motor to get the boat to move.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "plastic_boat_hull",
     "name": { "str": "plastic boat hull" },
+    "degradation_multiplier": 0.0,
     "description": "A rigid plastic sheet that keeps the boat afloat.  Add boat hulls to a vehicle until it floats, then attach oars or a motor to get the boat to move.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "carbonfiber_boat_hull",
     "name": { "str": "carbon fiber boat hull" },
+    "degradation_multiplier": 0.0,
     "description": "A rigid carbon fiber sheet that keeps the boat afloat.  Add boat hulls to a vehicle until it floats, then attach oars or a motor to get the boat to move.",
     "category": "veh_spare_parts"
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "hand_paddles",
     "name": { "str_sp": "oars" },
+    "degradation_multiplier": 0.0,
     "description": "A pair of oars for a boat.",
     "category": "veh_spare_parts"
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "sail",
     "name": { "str": "sail" },
+    "degradation_multiplier": 0.0,
     "description": "A sail for a boat.",
     "category": "veh_spare_parts"
   },
@@ -51,6 +57,7 @@
     "copy-from": "inflatable_section",
     "type": "GENERIC",
     "id": "inflatable_section",
+    "degradation_multiplier": 0.0,
     "name": { "str_sp": "inflatable section" },
     "description": "An inflatable boat section.",
     "category": "veh_spare_parts"
@@ -59,6 +66,7 @@
     "copy-from": "inflatable_airbag",
     "type": "GENERIC",
     "id": "inflatable_airbag",
+    "degradation_multiplier": 0.0,
     "name": { "str_sp": "inflatable airbag" },
     "description": "An inflatable airbag.",
     "category": "veh_spare_parts"
@@ -67,6 +75,7 @@
     "copy-from": "aluminum_boat_hull",
     "type": "GENERIC",
     "id": "aluminum_boat_hull",
+    "degradation_multiplier": 0.0,
     "name": { "str": "aluminum boat hull" },
     "description": "An aluminum hull that keeps the boat afloat.  Add boat hulls to a vehicle until it floats, then attach oars or a motor to get the boat to move.",
     "category": "veh_spare_parts"

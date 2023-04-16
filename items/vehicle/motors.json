@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "motor",
     "name": { "str": "electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "A powerful electric motor.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "motor_enhanced",
     "name": { "str": "enhanced electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "A very powerful, yet lightweight electric motor.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "motor_super",
     "name": { "str": "super electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "The most powerful electric motor on the market.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "motor_large",
     "name": { "str": "large electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "A large, very powerful electric motor.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "motor_small",
     "name": { "str": "small electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "A small electric motor.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "motor_tiny",
     "name": { "str": "tiny electric motor" },
+    "degradation_multiplier": 0.0,
     "description": "A tiny electric motor.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -52,6 +58,7 @@
     "type": "GENERIC",
     "id": "motor_train1300",
     "name": { "str": "1,300 HP electric train engine" },
+    "degradation_multiplier": 0.0,
     "description": "A 1,300 horsepower 3-phase 60 Hz electric engine.  Normally used in trains.",
     "category": "veh_spare_parts"
   }

@@ -5,6 +5,7 @@
     "type": "WHEEL",
     "name": { "str": "yoke and harness", "str_pl": "yokes and harnesses" },
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "description": "A bar and harness to attach a sufficiently large creature to a wheeled vehicle, allowing them to pull it along."
   }
 ]

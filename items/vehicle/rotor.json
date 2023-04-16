@@ -3,6 +3,7 @@
     "copy-from": "heavy_duty_military_rotor",
     "id": "heavy_duty_military_rotor",
     "type": "GENERIC",
+    "degradation_multiplier": 0.0,
     "category": "veh_spare_parts",
     "name": { "str": "heavy-duty military rotors", "str_pl": "sets of heavy-duty military rotors" },
     "description": "A set of four rotor blades from a military attack helicopter."
@@ -10,6 +11,7 @@
   {
     "copy-from": "small_helicopter_rotor",
     "id": "small_helicopter_rotor",
+    "degradation_multiplier": 0.0,
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "small civilian helicopter rotors", "str_pl": "sets of small civilian helicopter rotors" },

@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "seat",
     "name": { "str": "seat" },
+    "degradation_multiplier": 0.0,
     "description": "A soft car seat made from synthetic fabric.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "seat_leather",
     "name": { "str": "leather seat" },
+    "degradation_multiplier": 0.0,
     "description": "A soft car seat covered with leather.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "saddle",
     "name": { "str": "saddle" },
+    "degradation_multiplier": 0.0,
     "description": "A leather-covered seat designed to be straddled.",
     "category": "veh_spare_parts"
   }

@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "camera_control",
     "name": { "str": "camera display" },
+    "degradation_multiplier": 0.0,
     "description": "A set of small monitors.  Required to view cameras' output.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "omnicamera",
     "name": { "str": "security camera" },
+    "degradation_multiplier": 0.0,
     "description": "A security camera you could connect to a display.  Image quality is quite low, but the field of vision is great.",
     "category": "veh_spare_parts"
   },
@@ -21,6 +23,7 @@
     "id": "omnicamera_reinforced",
     "looks_like": "omnicamera",
     "name": { "str": "reinforced security camera" },
+    "degradation_multiplier": 0.0,
     "description": "A security camera with a cage built around it to protect it from damage without reducing its effectiveness.",
     "category": "veh_spare_parts"
   },
@@ -29,6 +32,7 @@
     "type": "GENERIC",
     "id": "vehicle_controls",
     "name": { "str": "vehicle controls", "str_pl": "sets of vehicle controls" },
+    "degradation_multiplier": 0.0,
     "description": "A set of various vehicle controls.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -38,6 +42,7 @@
     "type": "GENERIC",
     "name": { "str": "rein and tackle", "str_pl": "reins and tackles" },
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "description": "A set of leather bindings to control a mountable creature."
   },
   {
@@ -45,6 +50,7 @@
     "type": "GENERIC",
     "id": "vehicle_dashboard",
     "name": { "str": "dashboard" },
+    "degradation_multiplier": 0.0,
     "description": "A vehicle instrument panel with various gauges and switches.  Useful for crafting.",
     "category": "veh_spare_parts"
   },
@@ -54,6 +60,7 @@
     "id": "electronics_controls",
     "category": "veh_spare_parts",
     "name": { "str": "electronics control unit" },
+    "degradation_multiplier": 0.0,
     "description": "A vehicle instrument panel with various gauges and switches.  Useful for crafting."
   },
   {
@@ -69,6 +76,7 @@
     "type": "GENERIC",
     "id": "robot_controls",
     "name": { "str": "robot driving unit" },
+    "degradation_multiplier": 0.0,
     "description": "A set of servos, microcontrollers, and other devices, together capable of driving an unmanned vehicle.  Its AI is not functional, but it should still have some sort of maintenance mode.",
     "category": "veh_spare_parts"
   },
@@ -77,6 +85,7 @@
     "type": "GENERIC",
     "id": "turret_controls",
     "name": { "str": "turret control unit" },
+    "degradation_multiplier": 0.0,
     "description": "A set of motors, cameras, and various electronic modules banded together to allow for tracking targets, friend-or-foe identification, and firing the connected turret in full automatic mode.",
     "category": "veh_spare_parts"
   }

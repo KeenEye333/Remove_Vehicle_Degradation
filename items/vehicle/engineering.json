@@ -4,6 +4,7 @@
     "id": "cantilever_medium",
     "type": "GENERIC",
     "name": { "str": "steel boom" },
+    "degradation_multiplier": 0.0,
     "description": "A large, rigid steel boom.  If attached to a frame it could be used to lift up to 20 metric tonnes.",
     "category": "veh_spare_parts"
   },
@@ -13,6 +14,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "telescopic cantilever" },
+    "degradation_multiplier": 0.0,
     "description": "A small, telescoping steel cantilever.  If attached to a frame it could be used to lift up to 3.5 metric tonnes."
   },
   {
@@ -20,6 +22,7 @@
     "id": "pallet_lifter",
     "type": "GENERIC",
     "name": { "str": "pallet lifter" },
+    "degradation_multiplier": 0.0,
     "description": "A makeshift pallet lifter.  If attached to a frame it could be used to lift up to 0.5 metric tonnes.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "v_rockwheel_item",
     "name": { "str": "rockwheel" },
+    "degradation_multiplier": 0.0,
     "category": "veh_spare_parts",
     "description": "A large, heavy, jagged metal disc for digging trenches."
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "v_airjack_item",
     "name": { "str": "airjack" },
+    "degradation_multiplier": 0.0,
     "category": "veh_spare_parts",
     "description": "An extendable metal pylon used to replace a portable jack.  If mounted to a vehicle, it could be used to lift it up."
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "v_motorcycle_kickstand_item",
     "name": { "str": "motorcycle kickstand" },
+    "degradation_multiplier": 0.0,
     "description": "A kickstand to keep a bike from falling over.  You could use this to lean a small vehicle forward or backward to change a tire.",
     "category": "veh_spare_parts"
   }

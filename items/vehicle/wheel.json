@@ -4,6 +4,7 @@
     "id": "wheel_mount_wood",
     "type": "GENERIC",
     "name": { "str": "wooden wheel mount" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of wood with holes suitable for a bike wheel.",
     "category": "veh_spare_parts"
   },
@@ -13,6 +14,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "light wheel mount" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of metal with holes suitable for a bike or motorbike wheel."
   },
   {
@@ -21,6 +23,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "medium wheel hub assembly", "str_pl": "medium wheel hub assemblies" },
+    "degradation_multiplier": 0.0,
     "description": "A metal assembly that allows bolting a wheel onto a car.  Fit for a car wheel."
   },
   {
@@ -29,6 +32,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "heavy wheel hub assembly", "str_pl": "heavy wheel hub assemblies" },
+    "degradation_multiplier": 0.0,
     "description": "A heavy metal assembly that allows bolting a wheel onto a car.  Fit for a large car wheel."
   },
   {
@@ -37,6 +41,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "medium steel rim" },
+    "degradation_multiplier": 0.0,
     "description": "A medium-size steel rim for a car tire."
   },
   {
@@ -44,6 +49,7 @@
     "id": "wheel_rim_motorbike",
     "type": "GENERIC",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "name": { "str": "steel motorbike rim" },
     "description": "A steel rim for a motorbike tire."
   },
@@ -53,6 +59,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "wide steel rim" },
+    "degradation_multiplier": 0.0,
     "description": "A wide steel rim for a larger tire."
   },
   {
@@ -60,6 +67,7 @@
     "id": "wheel_rim_bicycle",
     "type": "GENERIC",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "name": { "str": "bicycle rim" },
     "description": "A large, spoked rim for a bicycle tire."
   },
@@ -68,6 +76,7 @@
     "id": "tire_medium",
     "type": "GENERIC",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "name": { "str": "17\" car tire" },
     "description": "A standard 17\" car tire for fitting to a medium steel rim."
   },
@@ -77,6 +86,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "16\" racing tire" },
+    "degradation_multiplier": 0.0,
     "description": "A slick 16\" racing car tire for fitting to a medium steel rim."
   },
   {
@@ -86,6 +96,7 @@
     "category": "veh_spare_parts",
     "looks_like": "wheel_motorbike",
     "name": { "str": "16\" motorbike tire" },
+    "degradation_multiplier": 0.0,
     "description": "A 16\" motorbike tire for fitting to a steel motorbike rim."
   },
   {
@@ -94,6 +105,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "20\" off-road motorbike tire" },
+    "degradation_multiplier": 0.0,
     "description": "A 20\" off-road motorbike tire for fitting to a steel motorbike rim."
   },
   {
@@ -102,6 +114,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "24\" wide tire" },
+    "degradation_multiplier": 0.0,
     "description": "A wide tire for fitting to a wide steel rim."
   },
   {
@@ -110,6 +123,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "24\" off-road wide tire" },
+    "degradation_multiplier": 0.0,
     "description": "A wide tire for fitting to a wide steel rim.  It's studded to provide better grip off-road at the cost of some performance on pavement."
   },
   {
@@ -118,6 +132,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "27\" bicycle tire" },
+    "degradation_multiplier": 0.0,
     "description": "A bicycle tire for fitting to a bicycle rim."
   },
   {
@@ -126,6 +141,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "27\" off-road bicycle tire" },
+    "degradation_multiplier": 0.0,
     "description": "A wide, studded bicycle tire intended to be fitted to a bicycle rim for off-road biking."
   },
   {
@@ -134,6 +150,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "deflated 17\" wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A car wheel.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -142,6 +159,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "deflated 16\" racing wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide, smooth wheel intended for racing.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -150,6 +168,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "deflated 16\" motorbike wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A motorbike wheel.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -158,6 +177,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "deflated 20\" off-road motorbike wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A motorbike wheel, studded for improved off-road performance.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -166,6 +186,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "deflated 24\" wide wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide wheel.  \\o/ This wide.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -174,6 +195,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "deflated 24\" off-road wide wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide wheel.  \\o/ This wide.  It's studded to provide better grip off-road at the cost of some performance on pavement.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -182,6 +204,7 @@
     "type": "GENERIC",
     "category": "veh_spare_parts",
     "name": { "str": "deflated 27\" bicycle wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A bicycle wheel.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -190,6 +213,7 @@
     "category": "veh_spare_parts",
     "type": "GENERIC",
     "name": { "str": "deflated 27\" off-road bicycle wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide, studded, bicycle wheel intended for off-road biking.  It is currently deflated and will need to be inflated to be used on a vehicle."
   },
   {
@@ -198,6 +222,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A car wheel."
   },
   {
@@ -206,6 +231,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "racing wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide, smooth wheel intended for racing.  The slick surface provides better speed on pavement but penalizes off-road speed."
   },
   {
@@ -214,6 +240,7 @@
     "id": "wheel_armor",
     "category": "veh_spare_parts",
     "name": { "str": "armored wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide military-grade wheel."
   },
   {
@@ -222,6 +249,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "wheelbarrow wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A small wheel from a common garden wheelbarrow."
   },
   {
@@ -230,6 +258,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "bicycle wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A bicycle wheel."
   },
   {
@@ -238,6 +267,7 @@
     "category": "veh_spare_parts",
     "type": "WHEEL",
     "name": { "str": "off-road bicycle wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide, studded bicycle wheel intended for off-road biking."
   },
   {
@@ -246,6 +276,7 @@
     "category": "veh_spare_parts",
     "type": "WHEEL",
     "name": { "str": "set of casters", "str_pl": "sets of casters" },
+    "degradation_multiplier": 0.0,
     "description": "A set of casters, like you'd find on a shopping cart."
   },
   {
@@ -254,6 +285,7 @@
     "category": "veh_spare_parts",
     "type": "WHEEL",
     "name": { "str": "set of wheels", "str_pl": "sets of wheels" },
+    "degradation_multiplier": 0.0,
     "description": "A set of four small wheels with tough rubber tires."
   },
   {
@@ -262,6 +294,7 @@
     "category": "veh_spare_parts",
     "type": "WHEEL",
     "name": { "str": "metal wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A simple metal wheel."
   },
   {
@@ -270,6 +303,7 @@
     "category": "veh_spare_parts",
     "type": "WHEEL",
     "name": { "str": "rail wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A strong rail wheel.  A flange helps keep it on a rail, but makes it perform terribly when not on a rail."
   },
   {
@@ -277,6 +311,7 @@
     "id": "wheel_rail_small_pair",
     "name": { "str": "pair of small rail wheels", "str_pl": "pairs of small rail wheels" },
     "type": "WHEEL",
+    "degradation_multiplier": 0.0,
     "description": "A pair of small rail wheels.  It fits small railroad rails found in places like amusement parks.  Mostly for hobby purposes rather than transportation.",
     "category": "veh_spare_parts"
   },
@@ -284,6 +319,7 @@
     "copy-from": "wheel_motorbike",
     "id": "wheel_motorbike",
     "type": "WHEEL",
+    "degradation_multiplier": 0.0,
     "category": "veh_spare_parts",
     "name": { "str": "motorbike wheel" },
     "description": "A motorbike wheel."
@@ -294,6 +330,7 @@
     "type": "WHEEL",
     "name": { "str": "off-road motorbike wheel" },
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "description": "A motorbike wheel, studded for improved off-road performance."
   },
   {
@@ -302,6 +339,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "large steel drum" },
+    "degradation_multiplier": 0.0,
     "description": "A large cylinder fashioned out of thick plates of hardened steel, normally found on road rollers.  Numerous massive spokes, attached to a central axis, reinforce its structure even further, making it an unstoppable force once it starts rolling."
   },
   {
@@ -309,6 +347,7 @@
     "id": "wheel_small",
     "type": "WHEEL",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "name": { "str": "small wheel" },
     "description": "A pretty small wheel.  Probably from one of those Segway things.  It is not very menacing."
   },
@@ -318,12 +357,14 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "skate wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A very small plastic wheel with a punk attitude.  This wheel was made for skating."
   },
   {
     "copy-from": "wheel_tricycle",
     "id": "wheel_tricycle",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "type": "WHEEL",
     "name": { "str": "set of tricycle wheels", "str_pl": "sets of tricycle wheels" },
     "description": "A set of hard plastic wheels with one larger than the other two.  Proudly made in the USA by Double Dango Productions."
@@ -333,6 +374,7 @@
     "id": "wheel_wheelchair",
     "type": "WHEEL",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "name": { "str": "pair of wheelchair wheels", "str_pl": "pairs of wheelchair wheels" },
     "description": "A pair of wheels for a wheelchair."
   },
@@ -342,12 +384,14 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "wide wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A wide wheel.  \\o/ This wide."
   },
   {
     "copy-from": "wheel_wide_or",
     "id": "wheel_wide_or",
     "category": "veh_spare_parts",
+    "degradation_multiplier": 0.0,
     "type": "WHEEL",
     "name": { "str": "off-road wide wheel" },
     "description": "A wide wheel.  \\o/ This wide.  It's studded to provide better grip off-road at the cost of some performance on pavement."
@@ -358,6 +402,7 @@
     "type": "WHEEL",
     "category": "veh_spare_parts",
     "name": { "str": "wooden cart wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A handmade wooden cart wheel."
   },
   {
@@ -365,6 +410,7 @@
     "id": "wheel_wood_b",
     "type": "WHEEL",
     "name": { "str": "banded wooden cart wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A handmade wooden cart wheel with metal bands for durability.",
     "category": "veh_spare_parts"
   }

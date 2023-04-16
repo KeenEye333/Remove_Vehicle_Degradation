@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "sheet_metal",
     "name": { "str_sp": "sheet metal" },
+    "degradation_multiplier": 0.0,
     "description": "A thin sheet of metal.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "wood_plate",
     "name": { "str": "wooden armor kit" },
+    "degradation_multiplier": 0.0,
     "description": "A bundle of planks prepared to be used as vehicle armor.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "steel_plate",
     "name": { "str_sp": "steel plating" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of vehicle armor plating made of steel.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "alloy_plate",
     "name": { "str_sp": "superalloy plating" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of vehicle armor plating made of sturdy superalloy.",
     "category": "veh_spare_parts"
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "alloy_sheet",
     "name": { "str": "superalloy sheet" },
+    "degradation_multiplier": 0.0,
     "description": "A sheet of sturdy superalloy; incredibly hard, yet incredibly malleable.",
    "category": "veh_spare_parts"
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "spiked_plate",
     "name": { "str_sp": "spiked plating" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of vehicle armor plating made of steel.  It is covered with menacing spikes.",
     "category": "veh_spare_parts"
   },
@@ -52,6 +58,7 @@
     "type": "GENERIC",
     "id": "hard_plate",
     "name": { "str": "hard plating" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of very thick vehicle armor plating made of tempered steel.",
     "category": "veh_spare_parts"
   },
@@ -60,6 +67,7 @@
     "type": "GENERIC",
     "id": "mil_plate",
     "name": { "str": "military composite plating" },
+    "degradation_multiplier": 0.0,
     "description": "A thick sheet of military-grade armor; the best bullet-stopper you can stick on a vehicle.",
     "category": "veh_spare_parts"
   },
@@ -68,6 +76,7 @@
     "type": "GENERIC",
     "id": "chitin_plate",
     "name": { "str": "chitin armor kit" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of light chitin plating made for a vehicle.",
     "category": "veh_spare_parts"
   },
@@ -76,6 +85,7 @@
     "type": "GENERIC",
     "id": "acidchitin_plate",
     "name": { "str": "biosilicified chitin armor kit" },
+    "degradation_multiplier": 0.0,
     "description": "A piece of durable silica-coated chitin plating made for a vehicle.",
     "category": "veh_spare_parts"
   },
@@ -84,6 +94,7 @@
     "type": "GENERIC",
     "id": "counterweight",
     "name": { "str": "counterweight" },
+    "degradation_multiplier": 0.0,
     "description": "A heavy block of steel used for balancing other heavy things.",
     "category": "veh_spare_parts"
   }

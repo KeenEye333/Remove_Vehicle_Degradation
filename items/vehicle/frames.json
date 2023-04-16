@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "foldframe",
     "name": { "str": "foldable light frame" },
+    "degradation_multiplier": 0.0,
     "description": "A small, foldable lightweight frame made from pipework.",
     "category": "veh_spare_part"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "xlframe",
     "name": { "str": "extra-light frame" },
+    "degradation_multiplier": 0.0,
     "description": "A small, lightweight frame made from pipework.  Useful for crafting.",
     "category": "veh_spare_part"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "foldxlframe",
     "name": { "str": "foldable extra-light frame" },
+    "degradation_multiplier": 0.0,
     "description": "A small, foldable lightweight frame made from aluminum.",
     "category": "veh_spare_part"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "frame",
     "name": { "str": "steel frame" },
+    "degradation_multiplier": 0.0,
     "description": "A large frame made of steel.  Useful for crafting.",
     "category": "veh_spare_part"
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "hdframe",
     "name": { "str": "heavy-duty frame" },
+    "degradation_multiplier": 0.0,
     "description": "A large, reinforced steel frame, used in military vehicle construction.",
     "category": "veh_spare_part"
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "frame_wood",
     "name": { "str": "wooden frame" },
+    "degradation_multiplier": 0.0,
     "description": "A large frame made of wood.  Useful for crafting.",
     "category": "veh_spare_part"
   },
@@ -52,6 +58,7 @@
     "type": "GENERIC",
     "id": "foldwoodframe",
     "name": { "str": "foldable wooden frame" },
+    "degradation_multiplier": 0.0,
     "description": "A small, foldable frame made from scrap wood.",
     "category": "veh_spare_part"
   },
@@ -60,6 +67,7 @@
     "type": "GENERIC",
     "id": "frame_wood_light",
     "name": { "str": "light wooden frame" },
+    "degradation_multiplier": 0.0,
     "description": "A small frame made of a few pieces of wood, held together by rope.  Useful for crafting.",
     "category": "veh_spare_part"
   }

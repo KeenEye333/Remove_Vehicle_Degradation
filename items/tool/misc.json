@@ -8,6 +8,7 @@
     "type": "TOOL",
     "category": "veh_spare_parts",
     "name": { "str": "bicycle horn" },
+    "degradation_multiplier": 0.0,
     "description": "A simple bulb horn found on many bicycles.  Activate it to honk.  Honk honk."
   },
   {
@@ -16,6 +17,7 @@
     "type": "TOOL",
     "category": "veh_spare_parts",
     "name": { "str": "truck horn" },
+    "degradation_multiplier": 0.0,
     "description": "A very loud horn, usually found on large trucks like semis."
   },
   {
@@ -24,6 +26,7 @@
     "type": "TOOL",
     "category": "veh_spare_parts",
     "name": { "str": "car horn" },
+    "degradation_multiplier": 0.0,
     "description": "A car horn meant to be attached to a car's electrical system."
   }
 

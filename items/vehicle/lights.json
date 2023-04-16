@@ -4,6 +4,7 @@
     "id": "car_headlight",
     "type": "GENERIC",
     "name": { "str": "car headlight" },
+    "degradation_multiplier": 0.0,
     "description": "A vehicle headlight to light up the way.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "id": "motorcycle_headlight",
     "type": "GENERIC",
     "name": { "str": "motorcycle headlight" },
+    "degradation_multiplier": 0.0,
     "description": "A motorcycle headlight to light up the way.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "id": "car_wide_headlight",
     "type": "GENERIC",
     "name": { "str": "wide-angle car headlight" },
+    "degradation_multiplier": 0.0,
     "description": "A wide-angle vehicle headlight to light up the way.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "headlight_reinforced",
     "name": { "str": "reinforced headlight" },
+    "degradation_multiplier": 0.0,
     "description": "A vehicle headlight with a cage built around it to protect it from damage without reducing its effectiveness.",
     "category": "veh_spare_parts"
   },
@@ -36,6 +40,7 @@
     "type": "GENERIC",
     "id": "wide_headlight_reinforced",
     "name": { "str": "reinforced wide-angle headlight" },
+    "degradation_multiplier": 0.0,
     "description": "A wide-angle vehicle headlight with a cage built around it to protect it from damage without reducing its effectiveness.",
     "category": "veh_spare_parts"
   },
@@ -44,6 +49,7 @@
     "type": "GENERIC",
     "id": "light_emergency_red",
     "name": { "str": "emergency vehicle light (red)", "str_pl": "emergency vehicle lights (red)" },
+    "degradation_multiplier": 0.0,
     "description": "A red light from the top of an emergency services vehicle.  When turned on, the light rotates to shine in all directions.",
     "category": "veh_spare_parts"
   },
@@ -52,6 +58,7 @@
     "type": "GENERIC",
     "id": "light_emergency_blue",
     "name": { "str": "emergency vehicle light (blue)", "str_pl": "emergency vehicle lights (blue)" },
+    "degradation_multiplier": 0.0,
     "description": "A blue light from the top of an emergency services vehicle.  When turned on, the light rotates to shine in all directions.",
     "category": "veh_spare_parts"
   },
@@ -60,6 +67,7 @@
     "type": "GENERIC",
     "id": "floodlight",
     "name": { "str": "floodlight" },
+    "degradation_multiplier": 0.0,
     "description": "A large, heavy light designed to illuminate wide areas.",
     "category": "veh_spare_parts"
   },
@@ -68,6 +76,7 @@
     "type": "GENERIC",
     "id": "directed_floodlight",
     "name": { "str": "directed floodlight" },
+    "degradation_multiplier": 0.0,
     "description": "A large, heavy light designed to illuminate a wide area in a half-circular cone.",
     "category": "veh_spare_parts"
   }

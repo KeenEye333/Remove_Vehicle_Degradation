@@ -4,6 +4,7 @@
     "id": "fuel_bunker",
     "type": "MAGAZINE",
     "name": { "str": "fuel bunker" },
+    "degradation_multiplier": 0.0,
     "description": "A bin for holding solid fuel.",
     "category": "veh_spare_parts"
   }

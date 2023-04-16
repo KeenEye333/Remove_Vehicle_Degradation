@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "v_table",
     "name": { "str": "fancy table" },
+    "degradation_multiplier": 0.0,
     "description": "A very fancy table from a very fancy RV.  If times were better, it might be useful for something other than firewood.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "w_table",
     "name": { "str": "wooden table" },
+    "degradation_multiplier": 0.0,
     "description": "A crude wooden table.",
     "weight": "10071 g",
     "category": "veh_spare_parts"
@@ -21,6 +23,7 @@
     "type": "GENERIC",
     "id": "workbench",
     "name": { "str": "workbench", "str_pl": "workbenches" },
+    "degradation_multiplier": 0.0,
     "description": "A sturdy workbench made of metal.  It is perfect for crafting large and heavy things.",
     "category": "veh_spare_parts"
   },
@@ -29,6 +32,7 @@
     "type": "GENERIC",
     "id": "workbench_with_recharger",
     "name": { "str": "workbench with battery recharger", "str_pl": "workbenches with battery rechargers" },
+    "degradation_multiplier": 0.0,
     "description": "A sturdy metal workbench, perfect for crafting large and heavy things.  It also has a built-in battery charger for your phone.",
     "category": "veh_spare_parts"
   }

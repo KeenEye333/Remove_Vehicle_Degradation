@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "v_scoop_item",
     "name": { "str": "vehicle scoop" },
+    "degradation_multiplier": 0.0,
     "description": "An assembly of motors and sheet metal that allows a vehicle to clean the road surface by removing debris and contaminants.",
     "category": "veh_spare_parts"
   },
@@ -13,6 +14,7 @@
     "id": "v_planter_item",
     "category": "veh_spare_parts",
     "name": { "str": "seed drill" },
+    "degradation_multiplier": 0.0,
     "description": "An assembly of tubes, spikes, and wheels that, when dragged along the ground, allows a vehicle to plant seeds automatically in suitably tilled land."
   },
   {
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "v_reaper_item",
     "name": { "str": "reaper" },
+    "degradation_multiplier": 0.0,
     "description": "An assembly of a blade, wheels, and a small lever for engaging/disengaging, used to cut down crops prior to picking them up.",
     "category": "veh_spare_parts"
   },
@@ -29,6 +32,7 @@
     "id": "v_reaper_item_advanced",
     "symbol": "/",
     "name": { "str": "advanced reaper" },
+    "degradation_multiplier": 0.0,
     "description": "An advanced electronic device used to cut down, collect, and store crops.",
     "category": "veh_spare_parts"
   },
@@ -39,6 +43,7 @@
     "symbol": "8",
     "name": { "str": "advanced seed drill" },
     "color": "dark_gray",
+    "degradation_multiplier": 0.0,
     "description": "An assembly of tubes, spikes, and wheels that, when dragged along the ground, allows a vehicle to plant seeds automatically in suitably tilled land.  This one is equipped with an electronic control system and will avoid damaging itself when used on untilled land.",
     "category": "veh_spare_parts"
   },
@@ -48,6 +53,7 @@
     "id": "v_plow_item",
     "symbol": "&",
     "name": { "str": "plow" },
+    "degradation_multiplier": 0.0,
     "color": "dark_gray",
     "description": "A heavy assembly of wheels and steel blades that turn up the ground.",
     "category": "veh_spare_parts"

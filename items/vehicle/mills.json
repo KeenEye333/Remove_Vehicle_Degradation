@@ -4,6 +4,7 @@
     "type": "GENERIC",
     "id": "wind_turbine",
     "name": { "str": "wind turbine" },
+    "degradation_multiplier": 0.0,
     "description": "A small turbine that can convert wind into electric power.",
     "category": "veh_spare_parts"
   },
@@ -12,6 +13,7 @@
     "type": "GENERIC",
     "id": "xl_wind_turbine",
     "name": { "str": "large wind turbine" },
+    "degradation_multiplier": 0.0,
     "description": "A large turbine that can convert wind into electric power.",
     "category": "veh_spare_parts"
   },
@@ -20,6 +22,7 @@
     "type": "GENERIC",
     "id": "water_wheel",
     "name": { "str": "water wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A water wheel that will slowly recharge a vehicle's electrical power when built over shallow moving water.",
     "category": "veh_spare_parts"
   },
@@ -28,6 +31,7 @@
     "type": "GENERIC",
     "id": "xl_water_wheel",
     "name": { "str": "large water wheel" },
+    "degradation_multiplier": 0.0,
     "description": "A large water wheel with wooden supports.  It will recharge a vehicle's electrical power when built over shallow moving water.",
     "category": "veh_spare_parts"
   }
