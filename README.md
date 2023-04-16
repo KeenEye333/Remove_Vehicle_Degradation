@@ -15,5 +15,5 @@ Then extract the zip file to your {CDDA game directory}/data/mods
 # Changelogs for v1.1
 
 1. Added a new vehicle category named, "VEHICLE SPARE PARTS" with ident, "veh_spare_parts". All vehicle parts are now under this category to prevent degradation system to work.
-2. Enabled loot Zone for new the vehicle category. 
+2. Enabled Loot Zone for new the vehicle category. 
 3. Fixed a lot of bugs.
